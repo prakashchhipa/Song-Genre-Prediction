@@ -22,8 +22,8 @@ tracks_to_complete.csv: This file contains test data having song_id for which ge
  
 **Solution:** 
 
-solution.py - Development code for data preprocesing, feature engineering to create worthful fetures, ML modeling and finally validation and results.
-solution.pdf - Transforms problem statements to approach it effectively, then explains all mandatory steps and possible reasoning behind feature engineerings & model selection. explains further results and justifies the model performance.
+1) solution.py - Development code for data preprocesing, feature engineering to create worthful fetures, ML modeling and finally validation and results.
+2) solution.pdf - Transforms problem statements to approach it effectively, then explains all mandatory steps and possible reasoning behind feature engineerings & model selection. explains further results and justifies the model performance.
 
 
 **Note for other Enthusiastic Contributor:**
