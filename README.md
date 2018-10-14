@@ -31,5 +31,5 @@ tracks_to_complete.csv: This file contains test data having song_id for which ge
 Most welcome to extend & contribute this experiment with better feature engineering & ML modeling.
 
 **Queries?...Connect with me at:**
-LinkedIn: https://linkedin.com/in/prakash-chandra-chhipa
-Email: prakash.chandra.chhipa@gmail.com
+1) LinkedIn: https://linkedin.com/in/prakash-chandra-chhipa
+2) Email: prakash.chandra.chhipa@gmail.com
